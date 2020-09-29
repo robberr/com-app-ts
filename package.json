@@ -1,0 +1,14 @@
+{
+  "name": "com-app-ts",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "com": "tsc app.ts"
+  },
+  "author": {
+    "name": "robberr"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
